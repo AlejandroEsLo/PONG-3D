@@ -6,4 +6,4 @@ Visualizacion de programas:
 https://alejandroeslo.github.io/PONG-3D/PONG.html
 
 2)Pong con variacion de velocidad al chocar con los jugadores:
-https://alejandroeslo.github.io/PONG-3D/PONG(Cambio_velocidad).html
+https://alejandroeslo.github.io/PONG-3D/PONG_Velocity.html
